@@ -1,0 +1,7 @@
+to improve:
+- ability to save file
+- better looking interface
+- add images
+- allignment
+- margins
+- laTex preview

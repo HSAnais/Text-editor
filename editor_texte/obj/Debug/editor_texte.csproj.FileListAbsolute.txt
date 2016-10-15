@@ -1,0 +1,18 @@
+D:\12 E\c#\editor_texte\editor_texte\bin\Debug\editor_texte.exe.config
+D:\12 E\c#\editor_texte\editor_texte\bin\Debug\editor_texte.exe
+D:\12 E\c#\editor_texte\editor_texte\bin\Debug\editor_texte.pdb
+D:\12 E\c#\editor_texte\editor_texte\obj\Debug\editor_texte.csprojResolveAssemblyReference.cache
+D:\12 E\c#\editor_texte\editor_texte\obj\Debug\editor_texte.Form1.resources
+D:\12 E\c#\editor_texte\editor_texte\obj\Debug\editor_texte.Properties.Resources.resources
+D:\12 E\c#\editor_texte\editor_texte\obj\Debug\editor_texte.csproj.GenerateResource.Cache
+D:\12 E\c#\editor_texte\editor_texte\obj\Debug\editor_texte.exe
+D:\12 E\c#\editor_texte\editor_texte\obj\Debug\editor_texte.pdb
+D:\DOCs\C#\editor_texte\editor_texte\bin\Debug\editor_texte.exe.config
+D:\DOCs\C#\editor_texte\editor_texte\obj\Debug\editor_texte.exe
+D:\DOCs\C#\editor_texte\editor_texte\obj\Debug\editor_texte.pdb
+D:\DOCs\C#\editor_texte\editor_texte\bin\Debug\editor_texte.exe
+D:\DOCs\C#\editor_texte\editor_texte\bin\Debug\editor_texte.pdb
+D:\DOCs\C#\editor_texte\editor_texte\obj\Debug\editor_texte.csprojResolveAssemblyReference.cache
+D:\DOCs\C#\editor_texte\editor_texte\obj\Debug\editor_texte.Form1.resources
+D:\DOCs\C#\editor_texte\editor_texte\obj\Debug\editor_texte.Properties.Resources.resources
+D:\DOCs\C#\editor_texte\editor_texte\obj\Debug\editor_texte.csproj.GenerateResource.Cache
